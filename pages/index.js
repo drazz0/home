@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to the home of Unbl0cked stuff!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Hope you have fun and join the d!scord</code>
         </p>
       </main>
 
